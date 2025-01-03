@@ -26,7 +26,7 @@ class ComputerEngineer:
             "Head First Design Patterns"
         ]
         self.currently_learning = ["Machine Learning", "System Design"]
-        self.email = "milad[dot]rezaee[at]example[dot]com"
+        self.email = "miladrezaeecc@gmail.com"
 
     def study(self) -> None:
         print("📚 Learning new concepts in Computer Engineering")

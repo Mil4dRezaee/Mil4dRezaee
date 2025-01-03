@@ -51,7 +51,7 @@ if __name__ == "__main__":
 </details>
 
 <p align="center">
-  <img src="https://github.com/Mil4dRezaee/Mil4dRezaee/blob/master/assets/Pudgy_penguin.gif?raw=true" alt="pudgy-penguin"/>
+  <img src="https://github.com/Mil4dRezaee/Mil4dRezaee/blob/main/assets/Pudgy_penguin.gif?raw=true" alt="pudgy-penguin"/>
 </p>
 
 ## 🛠️ Tech Stack
